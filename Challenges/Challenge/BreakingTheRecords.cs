@@ -34,8 +34,7 @@ namespace Challenge.BreakingTheRecords
                         lastMax = currentMax;
                     }                    
                 }
-            }
-            
+            }            
             return new List<int>(){max,min};
         }
     }
