@@ -13,7 +13,7 @@ namespace Challenge.BreakingTheRecords
             int currentMax = scores[0];
             for (var i = 0;i < scores.Count;i++)
             {              
-                if (i > 0)
+                if (i > 0) 
                 {
                     if (scores[i] > scores[i-1])
                     {
@@ -35,6 +35,7 @@ namespace Challenge.BreakingTheRecords
                     }                    
                 }
             }
+            
             return new List<int>(){max,min};
         }
     }

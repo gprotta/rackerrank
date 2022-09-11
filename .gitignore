@@ -1,3 +1,5 @@
 #folders ignoreds
 .bin/
-.obj/**
+.obj/
+.obj/Debug
+.obj/Debug/net6.0
