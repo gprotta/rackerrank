@@ -1,0 +1,15 @@
+/home/gprotta/Projects/HackerRank/Challenges/bin/Debug/net6.0/Challenges
+/home/gprotta/Projects/HackerRank/Challenges/bin/Debug/net6.0/Challenges.deps.json
+/home/gprotta/Projects/HackerRank/Challenges/bin/Debug/net6.0/Challenges.runtimeconfig.json
+/home/gprotta/Projects/HackerRank/Challenges/bin/Debug/net6.0/Challenges.dll
+/home/gprotta/Projects/HackerRank/Challenges/bin/Debug/net6.0/ref/Challenges.dll
+/home/gprotta/Projects/HackerRank/Challenges/bin/Debug/net6.0/Challenges.pdb
+/home/gprotta/Projects/HackerRank/Challenges/obj/Debug/net6.0/Challenges.csproj.AssemblyReference.cache
+/home/gprotta/Projects/HackerRank/Challenges/obj/Debug/net6.0/Challenges.GeneratedMSBuildEditorConfig.editorconfig
+/home/gprotta/Projects/HackerRank/Challenges/obj/Debug/net6.0/Challenges.AssemblyInfoInputs.cache
+/home/gprotta/Projects/HackerRank/Challenges/obj/Debug/net6.0/Challenges.AssemblyInfo.cs
+/home/gprotta/Projects/HackerRank/Challenges/obj/Debug/net6.0/Challenges.csproj.CoreCompileInputs.cache
+/home/gprotta/Projects/HackerRank/Challenges/obj/Debug/net6.0/Challenges.dll
+/home/gprotta/Projects/HackerRank/Challenges/obj/Debug/net6.0/ref/Challenges.dll
+/home/gprotta/Projects/HackerRank/Challenges/obj/Debug/net6.0/Challenges.pdb
+/home/gprotta/Projects/HackerRank/Challenges/obj/Debug/net6.0/Challenges.genruntimeconfig.cache
