@@ -1,4 +1,3 @@
 #folders ignoreds
 .bin/
-obj/
-
+.obj/**
