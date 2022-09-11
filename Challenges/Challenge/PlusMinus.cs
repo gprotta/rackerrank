@@ -10,15 +10,19 @@ namespace Challenge.PlusMinus
             int zero = 0;
             for (int i = 0; i < arr.Count;i++)
             {
-                if (arr.ElementAt(i) > 0){
+                if (arr.ElementAt(i) > 0)
+                {
                     positive++;
                 }
-                if(arr.ElementAt(i) < 0){
+                if(arr.ElementAt(i) < 0)
+                {
                     negative++;
                 }
             
-                if (arr.ElementAt(i) == 0 )
+                if (arr.ElementAt(i) == 0)
+                {
                     zero++;
+                }                    
             }
             float pos = (float)positive/arr.Count;
             float neg = (float)negative/arr.Count;

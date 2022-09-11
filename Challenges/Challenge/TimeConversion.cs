@@ -12,11 +12,14 @@ namespace Challenge.TimeConversion
                 int time = Int32.Parse(s.Substring(0,2));
                 if (time > 1 && time < 12){
                     hour = (time+12).ToString();
-                }else{
-                    hour = time.ToString();
                 }
-            
-            }else{
+                else
+                {
+                    hour = time.ToString();
+                }            
+            }
+            else
+            {
                 int time = Int32.Parse(s.Substring(0,2));
                 if (time == 12){
                     hour = "00";

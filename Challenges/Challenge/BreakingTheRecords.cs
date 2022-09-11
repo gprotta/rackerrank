@@ -25,7 +25,6 @@ namespace Challenge.BreakingTheRecords
                         currentMax= scores[i-1];  
                         currentMin= scores[i];                      
                     }
-
                     if(currentMin < lastMin){
                         min++;
                         lastMin = currentMin;
