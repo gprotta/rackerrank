@@ -33,8 +33,7 @@ namespace Challenge.BreakingTheRecords
                     if(currentMax > lastMax){
                         max++;
                         lastMax = currentMax;
-                    }
-                    
+                    }                    
                 }
             }
             return new List<int>(){max,min};
