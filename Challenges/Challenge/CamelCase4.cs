@@ -12,8 +12,7 @@ namespace Challenge.CamelCase4
             bool isMethod = arr.EndsWith("()");
             string finalText = String.Empty;
             if (operation == 'S')
-            {
-                
+            {                
                 if (isMethod){
                     text = text.Replace("()","");
                 }
@@ -22,8 +21,7 @@ namespace Challenge.CamelCase4
                 { 
                     finalText += split.Length-1 == j ? split[j] : split[j]+" ";
                 }
-                finalText = finalText.ToLower();
-                
+                finalText = finalText.ToLower();                
             }
             if (operation == 'C')
             {
@@ -55,8 +53,7 @@ namespace Challenge.CamelCase4
                     }
                     finalText += subText;
                 }
-            }
-            
+            }            
             return finalText;
         }
     }
